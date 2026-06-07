@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Tu Nombre]
+# 👋 Hi there, I'm [Lisandra Valdivia]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tuperfil)
 [![GitHub followers](https://img.shields.io/github/followers/tuusuario?style=for-the-badge&logo=github)](https://github.com/tuusuario)
